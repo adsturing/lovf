@@ -8,11 +8,11 @@ Our released dataset *ORAD-Pub* could be found at [JD JingPan](http://box.jd.com
 
 In the data files, each row corresponds to a search session. 
 Each column is a piece of multiple sample data aggregated according to user-query. The organization form of each column is:
-column[0]: user_id. int type
-column[1]: query_id. int type
-column[2]: The source of each sample(0:advertising. 1:organic). list type
-column[3]: The label of each sample. list type
-column[4:]: the side info [itemID, categoryID, brandID, vendorID and priceID] of each sample. list type
+column[0]: user_id. int type \ 
+column[1]: query_id. int type \
+column[2]: The source of each sample(0:advertising. 1:organic). list type \
+column[3]: The label of each sample. list type \
+column[4:]: the side info [itemID, categoryID, brandID, vendorID and priceID] of each sample. list type \
 
 ## Requirements
 
