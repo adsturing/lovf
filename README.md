@@ -1,6 +1,6 @@
 # Implicit User Awareness Modeling via Candidate Items for CTR Prediction in Search Ads
 
-This repo is the official implementation for the [SIGIR 2023 paper: *LOVF: Layered Organic View Fusion for Click-through Rate Prediction in Online Advertising*].
+This repo is the official implementation for the [SIGIR 2023 paper: *LOVF: Layered Organic View Fusion for Click-through Rate Prediction in Online Advertising*](https://dl.acm.org/doi/10.1145/3539618.3592014).
 
 ## Data format
 
